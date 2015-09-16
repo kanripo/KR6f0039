@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘顯識經
+#+DATE: 2015-08-30 20:01:39.866426
+#+PROPERTY: JUAN 0
