@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:39.612807
+#+DATE: 2015-08-30 20:01:41.351825
 #+TITLE: 大乘顯識經
 #+PROPERTY: CBETA_ID T12n0347
 #+PROPERTY: ID KR6f0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 347
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0039_T_001-0178c> 
 #+PROPERTY: JUAN 1
 ¶
-No.347[No.310(39)]¶
-
- 《大乘顯識經》卷上¶
+No. 347 [No. 310(39)]¶
+《大乘顯識經》卷上¶
 ¶
 中天竺國沙門地婆訶羅奉　詔譯¶
 
