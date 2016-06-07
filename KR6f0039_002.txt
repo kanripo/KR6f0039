@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:39.641195
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:58
 #+TITLE: 大乘顯識經
 #+PROPERTY: CBETA_ID T12n0347
 #+PROPERTY: ID KR6f0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 347
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0039_T_002-0182a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《大乘顯識經》卷下¶
+《大乘顯識經》卷下¶
 ¶
 中天竺國沙門地婆訶羅奉　詔譯¶
 
@@ -348,7 +347,7 @@
 堅固不壞，所生之身速朽速滅。」
 
 大藥言：「世尊！¶
-柔妙之識，云何穿入麁鞕色中？」
+柔妙之識，云何穿入麁鞭色中？」
 
 佛言：「大藥！水
 <pb:KR6f0039_T_002-0184c>¶
@@ -562,9 +561,9 @@
 　持法奉禁戒，
 　專精勿虧怠，¶
 　以棄生流轉，
-　盡諸苦有邊。」
+　盡諸苦有邊。」」
 #+END_VERSE
-」¶
+¶
 
 佛說此經已，賢護勝上童真、大藥王子，并諸¶
 比丘、菩薩摩訶薩、天人、阿修羅、乾闥婆等，普¶
